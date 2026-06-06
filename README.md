@@ -27,6 +27,23 @@ A modern Pomodoro productivity application built with HTML, CSS, and JavaScript.
 
 https://siddharth-singh-cs.github.io/Deep-work-timer-v1/
 
+## Screenshots
+
+### Main Timer
+![Main Timer](Screenshots/home.png)
+
+### Light Mode
+![Light Mode](Screenshots/light-mode.png)
+
+### Short Break
+![Short Break](Screenshots/short-break.png)
+
+### Long Break
+![Long Break](Screenshots/long-break.png)
+
+### Settings
+![Settings](Screenshots/settings.png)
+
 
 ## Author
 
